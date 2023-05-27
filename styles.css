@@ -2,6 +2,7 @@
     /* CSS styles for the nav-bar */
     .container {
 	display: flex;
+		flrx-direction:row;
       background-color: #D3D3D3;
       padding: 10px;
     }
